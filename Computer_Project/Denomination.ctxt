@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Denomination
+comment1.params=
+comment1.target=Denomination()
+comment2.params=
+comment2.target=int\ get()
+comment3.params=
+comment3.target=void\ check()
+comment4.params=
+comment4.target=void\ calprint()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
